@@ -38,7 +38,7 @@ Pixel-level encryption
 External Python libraries
 
 📂 Folder used:
-images/ → Contains input and output images for encryption/decryption
+Images → Contains input and output images for encryption/decryption
 
 3️⃣ Password Complexity Checker
 
@@ -69,7 +69,7 @@ Records keyboard inputs and saves them to a file.
 Used only for educational purposes to understand how key logging works.
 
 📄 Output file:
-keylogger.txt → Stores the logged keystrokes
+key_log.txt → Stores the logged keystrokes
 
 ⚠️ Disclaimer:
 This program is created strictly for learning and ethical purposes only.
